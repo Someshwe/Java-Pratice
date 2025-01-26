@@ -1,7 +1,7 @@
 # <h1>All the JAVA AND JAVA Related Question <br>and Answer with Program Are here</h1>
 <br>
 
-<img src="C:\Users\kapil\Downloads\download.png">
+<img src="download.png">
 
 <br>
 
