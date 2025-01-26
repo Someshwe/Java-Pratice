@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDBC PROJECT/JDBC PROJECT.iml" filepath="$PROJECT_DIR$/JDBC PROJECT/JDBC PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Somesh/Somesh.iml" filepath="$PROJECT_DIR$/Somesh/Somesh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAssignment/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/javaAssignment/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java All.iml" filepath="$PROJECT_DIR$/java All.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAssignment/javaAssignment.iml" filepath="$PROJECT_DIR$/javaAssignment/javaAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAssignment/inheritance/multiple/multiple.iml" filepath="$PROJECT_DIR$/javaAssignment/inheritance/multiple/multiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAssignment/overloading/overloading.iml" filepath="$PROJECT_DIR$/javaAssignment/overloading/overloading.iml" />
+    </modules>
+  </component>
+</project>
